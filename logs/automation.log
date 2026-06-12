@@ -1,0 +1,27 @@
+11:36:08.135 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4af46df3: 0 ms
+11:43:11.585 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\selenium\Opencart\master.xml"
+11:43:11.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\selenium\Opencart\master.xml
+
+11:43:18.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001 AccountRegistrationTest ******
+11:43:18.371 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:43:19.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:43:19.201 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..... 
+11:43:23.010 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:43:23.060 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Fineshed TC001 AccountRegistrationTest ******
+16:01:50.243 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001 AccountRegistrationTest ******
+16:01:50.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+16:01:51.164 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+16:01:51.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..... 
+16:01:55.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+16:01:55.110 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Fineshed TC001 AccountRegistrationTest ******
+16:02:00.727 [main] INFO  testCases.TC002_LoginTest - **********Starting TC002_LoginTest*****
+16:02:03.592 [main] INFO  testCases.TC002_LoginTest - ******Finished TC002_LoginTest********
+16:30:33.746 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001 AccountRegistrationTest ******
+16:30:34.081 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+16:30:34.658 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+16:30:34.669 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..... 
+16:30:36.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+16:30:38.324 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Fineshed TC001 AccountRegistrationTest ******
+16:30:45.696 [main] INFO  testCases.TC002_LoginTest - **********Starting TC002_LoginTest*****
+16:30:48.784 [main] INFO  testCases.TC002_LoginTest - ******Finished TC002_LoginTest********
